@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colors>
+  <color name="allPrimaryColor">#FFF9500A</color>
+  <color name="primaryColor">#FF2A3A8F</color>
+  <color name="secondaryColor">#FFEF1B94</color>
+  <color name="cFFFFFF">#FFFFFFFF</color>
+  <color name="cFEFFFE">#FFFEFFFE</color>
+  <color name="c000000">#FF000000</color>
+  <color name="cDFDFDF">#FFDFDFDF</color>
+  <color name="c0C89BF">#FF0C89BF</color>
+  <color name="cFAFAFA">#FFFAFAFA</color>
+  <color name="c737373">#FF737373</color>
+  <color name="cB6B6B6">#FFB6B6B6</color>
+  <color name="cF0F0F0">#FFF0F0F0</color>
+  <color name="c1F1F1F">#FF1F1F1F</color>
+  <color name="cF3F3F3">#FFF3F3F3</color>
+  <color name="c202020">#FF202020</color>
+  <color name="c3BA4D2">#FF3BA4D2</color>
+  <color name="cF3FEEF">#FFF3FEEF</color>
+  <color name="cF6F6F6">#FFF6F6F6</color>
+  <color name="c7F7F7F">#FF7F7F7F</color>
+  <color name="cACB7BD">#FFACB7BD</color>
+  <color name="c9C9C9C">#FF9C9C9C</color>
+  <color name="c9F9F9F">#FF9F9F9F</color>
+  <color name="cF45A29">#FFF45A29</color>
+  <color name="c2A3A8F">#FF2A3A8F</color>
+  <color name="cAFAFAF">#FFAFAFAF</color>
+  <color name="cF7F8FB">#FFF7F8FB</color>
+  <color name="cEFF0F1">#FFEFF0F1</color>
+  <color name="cFCFCFC">#FFFCFCFC</color>
+  <color name="cD9D9D9">#FFD9D9D9</color>
+
+ 
+
+
+</colors>
