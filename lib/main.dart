@@ -18,6 +18,7 @@ import 'app/provider/register/register_provider.dart';
 import 'app/router/app_router.dart';
 import 'database/model/cart/cart_items.dart';
 import 'database/model/wishlist/wishlist_local_model.dart';
+
 import 'shared/networks/dio/dio.dart';
 import 'utils/di.dart';
 import 'utils/helper_methods.dart';
